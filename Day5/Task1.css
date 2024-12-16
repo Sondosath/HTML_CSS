@@ -1,0 +1,24 @@
+.div1{
+    border: 2px solid;
+    height: 500px;
+    width: 250px;
+    display: inline;
+    margin: 5px;
+     position: relative;
+    
+    
+}
+.div2{
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+.divFooter{
+    padding: 5px;
+    width: 240px;
+    background-color: gray;
+    color: azure;
+    position: absolute;
+    top:470px ;
+
+
+}
