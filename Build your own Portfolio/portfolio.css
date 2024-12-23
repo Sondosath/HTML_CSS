@@ -126,7 +126,7 @@ section > div > div>div >h3
     flex: 1; 
     max-width: 20%; 
 }
-.ExperienceCard > div > img {
+.ExperienceCard > div> a > img {
     width: 92%;
     height: 225px;
     padding: 5px;
@@ -525,6 +525,12 @@ footer{
 }
 body{
     margin-right: 2px;
+}
+
+
+.ExperienceCard >div > p{
+    margin-top: 20px;
+    font-size: xx-small;
 }
 @media only screen and (max-width: 425px) {
     body {
